@@ -1,0 +1,11 @@
+.barra-nav a{
+    margin: 2%;
+    align-self: center;
+    
+}
+.contenedor-nav{
+    margin: 1%;
+    display: flex;
+    justify-content: space-between;
+    
+}
